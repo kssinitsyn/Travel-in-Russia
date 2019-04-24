@@ -1,0 +1,12 @@
+.place__paragraph {
+    width: 484px;
+
+    margin: 0 0 40px 40px;
+    padding: 0;
+
+    align-self: flex-start;
+
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+}

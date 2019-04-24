@@ -1,0 +1,15 @@
+@import url('./__title/intro__title.css');
+@import url('./__subtitle/intro__subtitle.css');
+@import url('./__main-text/intro__main-text.css');
+@import url('./__author/intro__author.css');
+@import url('./__text/intro__text.css');
+
+.intro {
+    margin: 80px 0 0 0;
+}
+
+.intro__content-row {
+    margin-bottom: 35px;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,12 @@
+@import url('./__copyright/footer__copyright.css');
+@import url('./footer-nav/footer-nav.css');
+
+.footer {
+    width: 1184px;
+
+    margin: 160px auto 0;
+    padding-bottom: 48px;
+
+    display: flex;
+    justify-content: space-between;
+}

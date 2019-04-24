@@ -1,0 +1,9 @@
+@import url('./_type/header__lang_type.css');
+@import url('./_active/header__lang_active.css');
+@import url('./_link/header__lang_link.css');
+
+.header__lang {
+    display: flex;
+
+    list-style: none;
+}

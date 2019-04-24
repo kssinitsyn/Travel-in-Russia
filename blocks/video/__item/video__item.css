@@ -1,0 +1,18 @@
+.video__item {
+    width: 583px;
+    height: 323px;
+
+    background-image: url("../../../images/video/rect.png");
+
+    margin-right: 18px;
+
+    position: relative;
+
+    text-decoration: none;
+}
+
+.video__item:hover {
+    opacity: 0.8;
+}
+
+

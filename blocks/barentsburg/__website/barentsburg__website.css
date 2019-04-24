@@ -1,0 +1,7 @@
+@import url('./_url/barentsburg__website_url.css');
+@import url('./_url-heading/barentsburg__website_url-heading.css');
+
+.barentsburg__website {
+    width: 282px;
+    margin: 48px 0 0 120px;
+}

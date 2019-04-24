@@ -1,0 +1,12 @@
+.additional__item {
+    margin-right: 16px;
+
+    width: 284px;
+    height: 330px;
+
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

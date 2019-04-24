@@ -1,0 +1,11 @@
+@import url('./__item/photo-greed__item.css');
+
+.photo-greed {
+    width: 1184px;
+
+    margin: 92px auto 0;
+
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

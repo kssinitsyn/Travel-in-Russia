@@ -1,0 +1,15 @@
+.additional__heading {
+    width: 248px;
+
+    margin: 0;
+    padding: 0;
+
+    position: absolute;
+    top: 30px;
+    left: 18px;
+
+    font-size: 27px;
+    font-weight: bold;
+    line-height: 29px;
+    color: #FFFFFF;
+}

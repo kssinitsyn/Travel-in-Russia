@@ -1,0 +1,14 @@
+.additional__text {
+    width: 248px;
+
+    margin: 0;
+    padding: 0;
+
+    position: absolute;
+    bottom: 30px;
+    left: 18px;
+
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+}

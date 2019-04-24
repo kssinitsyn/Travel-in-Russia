@@ -1,0 +1,12 @@
+@import url('./_bold/intro__text_bold.css');
+
+.intro__text {
+    width: 984px;
+
+    margin: 0 auto;
+
+    font-size: 13px;
+    line-height: 20px;
+    text-align: left;
+    color: #FFFFFF;
+}

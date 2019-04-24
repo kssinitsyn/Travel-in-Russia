@@ -1,0 +1,8 @@
+@import url('../__author/_name/intro__author_name.css');
+@import url('../__author/_date/intro__author_date.css');
+
+.intro__author {
+    width: 283px;
+
+    margin-left: 18px;
+}

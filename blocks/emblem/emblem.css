@@ -1,0 +1,21 @@
+@import url('./__title/emblem__title.css');
+@import url('./__item/emblem__item.css');
+@import url('./__image/emblem__image.css');
+@import url('./__city/emblem__city.css');
+
+.emblem {
+    width: 1184px;
+
+    margin: 82px auto 0;
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.emblem__container {
+    margin: 82px 0 0 0;
+
+    display: flex;
+    justify-content: space-between;
+}

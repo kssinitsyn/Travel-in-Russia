@@ -1,0 +1,11 @@
+.content__title {
+    margin: 102px auto 0;
+
+    width: 800px;
+
+    font-size: 72px;
+    font-weight: bold;
+    line-height: 78px;
+    text-align: center;
+    color: #fff;
+}

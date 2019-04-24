@@ -1,0 +1,16 @@
+@import url('./__duration/video__duration.css');
+@import url('./__icon/video__icon.css');
+@import url('./__item/video__item.css');
+@import url('./__subtitle/video__subtitle.css');
+@import url('./__title/video__title.css');
+@import url('./__item-bg/video__item-bg.css');
+@import url('./__rect/video__rect.css');
+
+.video {
+    width: 1184px;
+    margin: 0 auto;
+}
+
+.video__container {
+    display: flex;
+}
