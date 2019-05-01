@@ -19,3 +19,9 @@
     display: flex;
     justify-content: space-between;
 }
+
+@media screen and (max-width: 320px) {
+    .emblem__container {
+        flex-direction: column;
+    }
+}

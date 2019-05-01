@@ -2,3 +2,10 @@
     width: 583px;
     height: 323px;
 }
+
+@media screen and (max-width: 320px) {
+    .video__item-bg {
+        width: 288px;
+        height: 192px;
+    }
+}

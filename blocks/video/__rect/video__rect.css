@@ -5,6 +5,11 @@
     opacity: 0.2;
 }
 
-/*.video__rect:hover {*/
-/*    opacity: 0.8;*/
-/*}*/
+@media screen and (max-width: 320px) {
+    .video__item-bg {
+        width: 288px;
+        height: 192px;
+
+        padding: 0 16px 0 16px;
+    }
+}

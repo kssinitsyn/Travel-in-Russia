@@ -15,4 +15,15 @@
     opacity: 0.8;
 }
 
+@media screen and (max-width: 320px) {
+    .video__item {
+        width: 288px;
+        height: 192px;
+
+        padding: 0 16px 0 16px;
+
+        margin-bottom: 8px;
+    }
+}
+
 

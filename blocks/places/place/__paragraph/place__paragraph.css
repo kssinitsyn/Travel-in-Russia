@@ -10,3 +10,16 @@
     line-height: 30px;
     color: #FFFFFF;
 }
+
+@media screen and (max-width: 320px) {
+    .place__paragraph {
+        width: 288px;
+
+        padding: 0 16px;
+
+        margin: 24px 0 48px 0;
+
+        font-size: 18px;
+        line-height: 30px;
+    }
+}

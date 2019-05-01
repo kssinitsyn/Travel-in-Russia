@@ -13,3 +13,14 @@
     /*justify-content: space-around;*/
     align-items: flex-end;
 }
+
+@media screen and (max-width: 320px) {
+    .place {
+        width: 288px;
+
+        margin: 0;
+
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}

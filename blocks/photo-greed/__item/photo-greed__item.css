@@ -5,3 +5,12 @@
     margin-bottom: 16px;
 
 }
+
+@media screen and (max-width: 320px) {
+    .photo-greed__item {
+        width: 288px;
+        height: 192px;
+
+        margin-bottom: 8px;
+    }
+}
