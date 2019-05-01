@@ -9,6 +9,8 @@
 
 @media screen and (max-width: 320px) {
     .comments__container {
+        width: 288px;
+
         flex-direction: column;
     }
 }

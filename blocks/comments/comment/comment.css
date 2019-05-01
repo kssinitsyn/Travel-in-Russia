@@ -5,3 +5,12 @@
 .comment {
     margin-right: 19px;
 }
+
+@media screen and (max-width: 320px) {
+    .comment {
+        width: 288px;
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+    }
+}

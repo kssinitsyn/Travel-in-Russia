@@ -12,3 +12,15 @@
 .barentsburg__container {
     display: flex;
 }
+
+@media screen and (max-width: 320px){
+    .barentsburg__container {
+        width: 288px;
+        flex-direction: column-reverse;
+        margin: 0 auto;
+    }
+
+    .barentsburg {
+        width: 288px;
+    }
+}

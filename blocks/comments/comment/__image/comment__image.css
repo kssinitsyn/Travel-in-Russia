@@ -7,3 +7,16 @@
 
     border-radius: 50%;
 }
+
+@media screen and (max-width: 320px) {
+    .comment__image {
+        margin: 34px auto 0;
+
+        width: 96px;
+        height: 96px;
+
+        text-align: center;
+
+        order: 1;
+    }
+}

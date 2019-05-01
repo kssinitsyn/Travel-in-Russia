@@ -5,3 +5,10 @@
     width: 282px;
     margin: 48px 0 0 120px;
 }
+
+@media screen and (max-width: 320px){
+    .barentsburg__website {
+        width: 288px;
+        margin: 0;
+    }
+}
