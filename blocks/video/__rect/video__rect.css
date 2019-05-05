@@ -6,10 +6,8 @@
 }
 
 @media screen and (max-width: 320px) {
-    .video__item-bg {
+    .video__rect {
         width: 288px;
         height: 192px;
-
-        padding: 0 16px 0 16px;
     }
 }

@@ -9,3 +9,9 @@
     text-align: center;
     color: #CCCCCC;
 }
+
+@media screen and (max-width: 320px) {
+    .emblem__city {
+        margin-bottom: 56px;
+    }
+}

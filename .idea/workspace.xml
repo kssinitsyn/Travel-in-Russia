@@ -3,27 +3,30 @@
   <component name="ChangeListManager">
     <list default="true" id="2ccecf92-84cb-48cd-91a2-5ce47161c7dd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/additional/__item/additional__item.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/additional/__item/additional__item.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/additional/additional.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/additional/additional.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/barentsburg/__coord/barentsburg__coord.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/barentsburg/__coord/barentsburg__coord.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/barentsburg/__map/barentsburg__map.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/barentsburg/__map/barentsburg__map.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/barentsburg/__text/barentsburg__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/barentsburg/__text/barentsburg__text.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/barentsburg/__title/barentsburg__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/barentsburg/__title/barentsburg__title.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/barentsburg/__website/barentsburg__website.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/barentsburg/__website/barentsburg__website.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/barentsburg/barentsburg.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/barentsburg/barentsburg.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/comments/comment/__author/comment__author.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/comments/comment/__author/comment__author.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/comments/comment/__image/comment__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/comments/comment/__image/comment__image.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/comments/comment/__quote/comment__quote.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/comments/comment/__quote/comment__quote.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/comments/comment/comment.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/comments/comment/comment.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/comments/comments.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/comments/comments.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/__subtitle/content__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/__subtitle/content__subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/__title/content__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/__title/content__title.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/cover/cover.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/cover.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/emblem/__city/emblem__city.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/emblem/__city/emblem__city.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/emblem/__item/emblem__item.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/emblem/__item/emblem__item.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/emblem/__title/emblem__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/emblem/__title/emblem__title.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/emblem/emblem.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/emblem/emblem.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/footer-nav/__list/footer-nav__list.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/footer-nav/__list/footer-nav__list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/footer-nav/__item/footer-nav__item.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/footer-nav/__item/footer-nav__item.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/video/video.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/video.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/intro.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/intro.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/place/__paragraph/place__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/place/__paragraph/place__paragraph.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/places.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/places.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__duration/video__duration.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/__duration/video__duration.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__item/video__item.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/__item/video__item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__rect/video__rect.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/__rect/video__rect.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__title/video__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/__title/video__title.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,15 +43,28 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks/content/content.css">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/blocks/barentsburg/__text/barentsburg__text.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks/cover/cover.css">
+        <entry file="file://$PROJECT_DIR$/blocks/barentsburg/__title/barentsburg__title.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="231">
+              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blocks/barentsburg/__coord/barentsburg__coord.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -56,63 +72,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blocks/emblem/emblem.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks/footer/footer.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks/header/header.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks/intro/intro.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks/lead/lead.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks/photo-greed/photo-greed.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks/places/places.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            <state relative-caret-position="487">
+              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blocks/video/video.css">
+        <entry file="file://$PROJECT_DIR$/blocks/barentsburg/__map/barentsburg__map.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            <state relative-caret-position="231">
+              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blocks/barentsburg/barentsburg.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blocks/emblem/__city/emblem__city.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -137,15 +125,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/blocks/header/header.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/blocks/lead/__caption/lead__caption.css" />
-        <option value="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" />
-        <option value="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" />
         <option value="$PROJECT_DIR$/blocks/intro/__main-text/intro__main-text.css" />
         <option value="$PROJECT_DIR$/blocks/intro/__subtitle/intro__subtitle.css" />
         <option value="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" />
-        <option value="$PROJECT_DIR$/blocks/intro/intro.css" />
         <option value="$PROJECT_DIR$/blocks/intro/__author/_date/intro__author_date.css" />
         <option value="$PROJECT_DIR$/blocks/intro/__author/_name/intro__author_name.css" />
         <option value="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" />
@@ -155,18 +137,11 @@
         <option value="$PROJECT_DIR$/blocks/places/place/__website/place__website.css" />
         <option value="$PROJECT_DIR$/blocks/places/place/__image/place__image.css" />
         <option value="$PROJECT_DIR$/blocks/places/place/place.css" />
-        <option value="$PROJECT_DIR$/blocks/places/place/__paragraph/place__paragraph.css" />
         <option value="$PROJECT_DIR$/blocks/places/place/__title/place__title.css" />
         <option value="$PROJECT_DIR$/blocks/places/place/__website/_url/place__website_url.css" />
         <option value="$PROJECT_DIR$/blocks/places/place/__website/_url-heading/place__website_url-heading.css" />
-        <option value="$PROJECT_DIR$/blocks/content/__subtitle/content__subtitle.css" />
-        <option value="$PROJECT_DIR$/blocks/video/__duration/video__duration.css" />
         <option value="$PROJECT_DIR$/blocks/video/__subtitle/video__subtitle.css" />
-        <option value="$PROJECT_DIR$/blocks/video/__title/video__title.css" />
         <option value="$PROJECT_DIR$/blocks/video/__icon/_play/video__icon_play.css" />
-        <option value="$PROJECT_DIR$/blocks/video/__item/video__item.css" />
-        <option value="$PROJECT_DIR$/blocks/video/__rect/video__rect.css" />
-        <option value="$PROJECT_DIR$/blocks/content/__title/content__title.css" />
         <option value="$PROJECT_DIR$/blocks/additional/additional.css" />
         <option value="$PROJECT_DIR$/blocks/additional/__item/additional__item.css" />
         <option value="$PROJECT_DIR$/blocks/comments/comments.css" />
@@ -175,19 +150,32 @@
         <option value="$PROJECT_DIR$/blocks/comments/comment/comment.css" />
         <option value="$PROJECT_DIR$/blocks/comments/comment/__image/comment__image.css" />
         <option value="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" />
-        <option value="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" />
-        <option value="$PROJECT_DIR$/blocks/emblem/__title/emblem__title.css" />
-        <option value="$PROJECT_DIR$/blocks/emblem/emblem.css" />
-        <option value="$PROJECT_DIR$/blocks/barentsburg/barentsburg.css" />
+        <option value="$PROJECT_DIR$/blocks/footer/footer-nav/__list/footer-nav__list.css" />
+        <option value="$PROJECT_DIR$/blocks/intro/intro.css" />
+        <option value="$PROJECT_DIR$/blocks/places/places.css" />
+        <option value="$PROJECT_DIR$/blocks/footer/footer-nav/__item/footer-nav__item.css" />
+        <option value="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" />
+        <option value="$PROJECT_DIR$/blocks/footer/footer.css" />
+        <option value="$PROJECT_DIR$/blocks/cover/cover.css" />
+        <option value="$PROJECT_DIR$/blocks/video/__rect/video__rect.css" />
+        <option value="$PROJECT_DIR$/blocks/video/video.css" />
+        <option value="$PROJECT_DIR$/blocks/places/place/__paragraph/place__paragraph.css" />
+        <option value="$PROJECT_DIR$/blocks/video/__item/video__item.css" />
+        <option value="$PROJECT_DIR$/blocks/video/__duration/video__duration.css" />
+        <option value="$PROJECT_DIR$/blocks/video/__title/video__title.css" />
+        <option value="$PROJECT_DIR$/blocks/content/__title/content__title.css" />
+        <option value="$PROJECT_DIR$/blocks/content/__subtitle/content__subtitle.css" />
         <option value="$PROJECT_DIR$/blocks/barentsburg/__website/barentsburg__website.css" />
         <option value="$PROJECT_DIR$/blocks/barentsburg/__text/barentsburg__text.css" />
+        <option value="$PROJECT_DIR$/blocks/emblem/__city/emblem__city.css" />
+        <option value="$PROJECT_DIR$/blocks/emblem/__title/emblem__title.css" />
+        <option value="$PROJECT_DIR$/blocks/barentsburg/barentsburg.css" />
+        <option value="$PROJECT_DIR$/blocks/emblem/__item/emblem__item.css" />
+        <option value="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" />
         <option value="$PROJECT_DIR$/blocks/barentsburg/__title/barentsburg__title.css" />
-        <option value="$PROJECT_DIR$/blocks/barentsburg/__map/barentsburg__map.css" />
         <option value="$PROJECT_DIR$/blocks/barentsburg/__coord/barentsburg__coord.css" />
-        <option value="$PROJECT_DIR$/blocks/footer/footer.css" />
-        <option value="$PROJECT_DIR$/blocks/footer/footer-nav/__list/footer-nav__list.css" />
-        <option value="$PROJECT_DIR$/blocks/cover/cover.css" />
-        <option value="$PROJECT_DIR$/blocks/video/video.css" />
+        <option value="$PROJECT_DIR$/blocks/emblem/emblem.css" />
+        <option value="$PROJECT_DIR$/blocks/barentsburg/__map/barentsburg__map.css" />
       </list>
     </option>
   </component>
@@ -219,7 +207,28 @@
               <item name="Travel in Russia + Adaptive" type="b2602c69:ProjectViewProjectNode" />
               <item name="Travel in Russia + Adaptive" type="462c0819:PsiDirectoryNode" />
               <item name="blocks" type="462c0819:PsiDirectoryNode" />
-              <item name="video" type="462c0819:PsiDirectoryNode" />
+              <item name="barentsburg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Travel in Russia + Adaptive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travel in Russia + Adaptive" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="barentsburg" type="462c0819:PsiDirectoryNode" />
+              <item name="__coord" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Travel in Russia + Adaptive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travel in Russia + Adaptive" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="barentsburg" type="462c0819:PsiDirectoryNode" />
+              <item name="__map" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Travel in Russia + Adaptive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travel in Russia + Adaptive" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="barentsburg" type="462c0819:PsiDirectoryNode" />
+              <item name="__title" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Travel in Russia + Adaptive" type="b2602c69:ProjectViewProjectNode" />
@@ -289,12 +298,12 @@
       <workItem from="1555442661312" duration="440000" />
       <workItem from="1555443440885" duration="205000" />
       <workItem from="1555443659684" duration="37136000" />
-      <workItem from="1556528355070" duration="11833000" />
+      <workItem from="1556528355070" duration="16133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52012000" />
+    <option name="totallyTimeSpent" value="56312000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -321,7 +330,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899868" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32749325" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32614556" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -336,55 +345,6 @@
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blocks/lead/__title/lead__title.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/photo-greed/__item/photo-greed__item.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/places/place/__website/place__website.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/places/place/__image/place__image.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/places/place/__paragraph/place__paragraph.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/places/place/__title/place__title.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/places/place/__website/_url-heading/place__website_url-heading.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" selection-start-line="10" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blocks/places/place/__website/_url/place__website_url.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -406,38 +366,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/content/__subtitle/content__subtitle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blocks/intro/__title/intro__title.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/video/__rect/video__rect.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/video/__item/video__item.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/video/__item-bg/video__item-bg.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -455,31 +387,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/video/__duration/video__duration.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blocks/video/__subtitle/video__subtitle.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/content/__title/content__title.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/video/__title/video__title.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -518,31 +429,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/cover/__title/cover__title.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blocks/cover/__image-bg/cover__image-bg.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/emblem/__title/emblem__title.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -552,44 +442,6 @@
           <caret line="231" column="14" selection-start-line="231" selection-start-column="14" selection-end-line="231" selection-end-column="14" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/barentsburg/__website/barentsburg__website.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/barentsburg/__text/barentsburg__text.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" selection-start-line="11" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/barentsburg/__map/barentsburg__map.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" selection-start-line="7" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/barentsburg/__coord/barentsburg__coord.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" selection-start-line="9" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/barentsburg/__title/barentsburg__title.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/footer/footer-nav/footer-nav.css">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/blocks/footer/footer-nav/__list/footer-nav__list.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -605,13 +457,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/barentsburg/barentsburg.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" selection-start-line="15" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blocks/comments/comments.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -622,40 +467,6 @@
     <entry file="file://$PROJECT_DIR$/blocks/content/content.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/cover/cover.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/emblem/emblem.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/footer/footer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/header/header.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/intro/intro.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/lead/lead.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/blocks/photo-greed/photo-greed.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
@@ -663,17 +474,207 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/lead/lead.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/intro/intro.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/header/header.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/footer/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/footer/footer-nav/footer-nav.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/footer/footer-nav/__item/footer-nav__item.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blocks/places/places.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        <state relative-caret-position="168">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/cover/cover.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/places/place/__paragraph/place__paragraph.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/video/__item-bg/video__item-bg.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/video/__rect/video__rect.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/video/__duration/video__duration.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/video/__item/video__item.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/video/__title/video__title.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blocks/video/video.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        <state relative-caret-position="504">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/content/__title/content__title.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/content/__subtitle/content__subtitle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/emblem/__city/emblem__city.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/barentsburg/barentsburg.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/emblem/__title/emblem__title.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/cover/__title/cover__title.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/emblem/__item/emblem__item.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/barentsburg/__website/_url/barentsburg__website_url.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/barentsburg/__website/barentsburg__website.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/barentsburg/__text/barentsburg__text.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/barentsburg/__title/barentsburg__title.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/barentsburg/__coord/barentsburg__coord.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/emblem/emblem.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/barentsburg/__map/barentsburg__map.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
         </state>
       </provider>
     </entry>

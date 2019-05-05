@@ -23,10 +23,13 @@
 @media screen and (max-width: 320px) {
     .emblem {
         width: 288px;
+
+        margin: 64px auto 0;
     }
 
     .emblem__container {
         flex-direction: column;
+        /*justify-content: space-around;*/
 
         margin: 0 auto;
     }
