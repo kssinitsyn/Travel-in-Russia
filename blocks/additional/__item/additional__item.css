@@ -11,8 +11,22 @@
     justify-content: space-between;
 }
 
+@media screen and (max-width: 375px) {
+    .additional__item {
+        margin: 24px auto 0;
+    }
+
+    .additional__item:first-child {
+        margin: 16px auto 0;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .additional__item {
         margin: 24px auto 0;
+    }
+
+    .additional__item:first-child {
+        margin: 16px auto 0;
     }
 }

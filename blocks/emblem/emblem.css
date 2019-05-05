@@ -20,6 +20,20 @@
     justify-content: space-between;
 }
 
+@media screen and (max-width: 375px) {
+    .emblem {
+        width: 343px;
+
+        margin: 64px auto 0;
+    }
+
+    .emblem__container {
+        flex-direction: column;
+
+        margin: 0 auto;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .emblem {
         width: 288px;
@@ -29,7 +43,6 @@
 
     .emblem__container {
         flex-direction: column;
-        /*justify-content: space-around;*/
 
         margin: 0 auto;
     }

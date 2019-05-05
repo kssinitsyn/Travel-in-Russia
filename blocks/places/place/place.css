@@ -14,6 +14,21 @@
     align-items: flex-end;
 }
 
+@media screen and (max-width: 375px) {
+    .place {
+        width: 343px;
+
+        margin: 0;
+
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .place:last-child>.place__paragraph {
+        margin-bottom: 0;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .place {
         width: 288px;
@@ -22,5 +37,9 @@
 
         flex-direction: column;
         align-items: flex-start;
+    }
+
+    .place:last-child>.place__paragraph {
+        margin-bottom: 0;
     }
 }

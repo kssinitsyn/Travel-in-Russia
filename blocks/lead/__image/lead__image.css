@@ -7,9 +7,20 @@
     margin: 78px auto 0;
 }
 
+@media screen and (max-width: 375px) {
+    .lead__image {
+        width: 375px;
+        height: 211px;
+
+        margin: 31px auto 0;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .lead__image {
         width: 320px;
         height: 211px;
+
+        margin: 32px auto 0;
     }
 }

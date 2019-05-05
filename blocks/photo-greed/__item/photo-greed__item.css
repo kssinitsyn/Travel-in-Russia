@@ -6,11 +6,30 @@
 
 }
 
+@media screen and (max-width: 375px) {
+    .photo-greed__item {
+        width: 343px;
+        height: 232px;
+
+        margin-bottom: 15px;
+    }
+
+    .photo-greed__item:last-child {
+        margin-bottom: 0;
+    }
+
+
+}
+
 @media screen and (max-width: 320px) {
     .photo-greed__item {
         width: 288px;
         height: 192px;
 
         margin-bottom: 8px;
+    }
+
+    .photo-greed__item:last-child {
+        margin-bottom: 0;
     }
 }

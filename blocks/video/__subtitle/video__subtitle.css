@@ -11,6 +11,19 @@
     color: #FFFFFF;
 }
 
+@media screen and (max-width: 3375px) {
+    .video__subtitle {
+        width: 297px;
+
+        margin: 0;
+        font-size: 14px;
+        line-height: 15px;
+
+        bottom: 24px;
+        left: 24px;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .video__subtitle {
         width: 256px;

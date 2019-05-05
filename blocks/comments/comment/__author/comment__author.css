@@ -7,6 +7,21 @@
     line-height: 23px;
     color: #FFFFFF;
 }
+@media screen and (max-width: 375px) {
+    .comment__author {
+        width: 343px;
+        margin-top: 17px;
+        margin-bottom: 24px;
+
+        font-size: 14px;
+        font-weight: bold;
+        line-height: 24px;
+        text-align: center;
+
+        order: 2;
+
+    }
+}
 
 @media screen and (max-width: 320px) {
     .comment__author {

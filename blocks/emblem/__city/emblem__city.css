@@ -10,6 +10,12 @@
     color: #CCCCCC;
 }
 
+@media screen and (max-width: 375px) {
+    .emblem__city {
+        margin-bottom: 56px;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .emblem__city {
         margin-bottom: 56px;

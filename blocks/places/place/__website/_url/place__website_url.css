@@ -12,6 +12,16 @@
     opacity: 0.7;
 }
 
+@media screen and (max-width: 375px) {
+    .place__website_url {
+        margin-bottom: 32px;
+        padding: 0 16px;
+
+        font-size: 18px;
+        line-height: 30px;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .place__website_url {
         margin-bottom: 32px;

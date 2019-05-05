@@ -14,6 +14,13 @@
     opacity: 0.8;
 }
 
+@media screen and (max-width: 375px) {
+    .cover {
+        width: 375px;
+        margin: 64px 0 0 0;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .cover {
         width: 288px;

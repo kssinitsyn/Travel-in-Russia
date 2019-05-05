@@ -11,6 +11,15 @@
     color: #FFFFFF;
 }
 
+@media screen and (max-width: 375px) {
+    .intro__text {
+        width: 343px;
+
+        font-size: 12px;
+        line-height: 19px;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .intro__text {
         width: 288px;

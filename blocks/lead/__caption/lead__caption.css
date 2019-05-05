@@ -11,8 +11,18 @@
     text-align: left;
 }
 
+@media screen and (max-width: 375px) {
+    .lead__caption {
+        width: 343px;
+
+        margin: 8px auto 0;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .lead__caption {
         width: 288px;
+
+        margin: 8px auto 0;
     }
 }

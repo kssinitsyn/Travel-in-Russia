@@ -3,6 +3,14 @@
     height: 460px;
 }
 
+@media screen and (max-width: 375px) {
+    .place__image {
+        width: 375px;
+        height: 375px;
+        margin: 0;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .place__image {
         width: 320px;

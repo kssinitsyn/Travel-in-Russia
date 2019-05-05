@@ -10,6 +10,13 @@
     display: flex;
 }
 
+@media screen and (max-width: 375px) {
+    .additional__container {
+        width: 343px;
+        flex-direction: column;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .additional__container {
         width: 288px;

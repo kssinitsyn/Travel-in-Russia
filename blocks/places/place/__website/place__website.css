@@ -8,10 +8,18 @@
     flex-direction: column;
 }
 
+@media screen and (max-width: 375px) {
+    .place__website {
+        width: 343px;
+
+        margin: 0;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .place__website {
         width: 288px;
-        margin: 0;
 
+        margin: 0;
     }
 }

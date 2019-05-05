@@ -5,6 +5,13 @@
     opacity: 0.2;
 }
 
+@media screen and (max-width: 375px) {
+    .video__rect {
+        width: 343px;
+        height: 200px;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .video__rect {
         width: 288px;

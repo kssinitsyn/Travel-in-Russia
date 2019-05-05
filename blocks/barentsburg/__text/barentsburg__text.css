@@ -9,6 +9,13 @@
     color: #FFFFFF;
 }
 
+@media screen and (max-width: 375px){
+    .barentsburg__text {
+        width: 343px;
+        margin: 32px auto 0;
+    }
+}
+
 @media screen and (max-width: 320px){
     .barentsburg__text {
         width: 288px;

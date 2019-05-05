@@ -1,7 +1,17 @@
 .video__icon_play {
+    width: 41px;
+    height: 41px;
+
     position: absolute;
     top: 30px;
     left: 30px;
+}
+
+@media screen and (max-width: 375px) {
+    .video__icon_play {
+        top: 24px;
+        left: 24px;
+    }
 }
 
 @media screen and (max-width: 320px) {
