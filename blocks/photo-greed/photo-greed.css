@@ -10,6 +10,14 @@
     flex-wrap: wrap;
 }
 
+@media screen and (max-width: 768px) {
+    .photo-greed {
+        width: 720px;
+
+        margin: 92px auto 20px;
+    }
+}
+
 @media screen and (max-width: 375px) {
     .photo-greed {
         width: 343px;

@@ -10,6 +10,15 @@
     display: flex;
 }
 
+@media screen and (max-width: 768px) {
+    .additional__container {
+        width: 584px;
+        margin: 0 auto;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+}
+
 @media screen and (max-width: 375px) {
     .additional__container {
         width: 343px;

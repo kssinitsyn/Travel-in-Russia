@@ -11,6 +11,21 @@
     color: #FFFDFD;
 }
 
+@media screen  and (max-width: 768px) {
+    .cover__title {
+        width: 720px;
+
+        margin: 0;
+
+        top: 126px;
+        left: 24px;
+
+        font-size: 72px;
+        line-height: 78px;
+        text-align: center;
+    }
+}
+
 @media screen  and (max-width: 375px) {
     .cover__title {
         width: 251px;

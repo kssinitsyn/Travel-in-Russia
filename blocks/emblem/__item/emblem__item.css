@@ -1,3 +1,9 @@
+@media  screen and (max-width: 768px) {
+    .emblem__item {
+        margin:0 51px 0 0;
+    }
+}
+
 @media  screen and (max-width: 375px) {
     .emblem__item:last-child>.emblem__city {
         margin-bottom: 0;

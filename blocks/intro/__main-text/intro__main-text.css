@@ -9,6 +9,17 @@
     color: #FFF;
 }
 
+@media screen and (max-width: 768px) {
+    .intro__main-text {
+        width: 720px;
+
+        margin: 39px auto 35px;
+
+        font-size: 14px;
+        line-height: 24px;
+    }
+}
+
 @media screen and (max-width: 375px) {
     .intro__main-text {
         width: 343px;

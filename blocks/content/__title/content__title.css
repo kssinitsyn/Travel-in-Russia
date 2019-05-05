@@ -10,6 +10,17 @@
     color: #fff;
 }
 
+@media screen and (max-width: 768px) {
+    .content__title {
+        width: 720px;
+
+        margin: 102px auto 24px;
+
+        font-size: 42px;
+        line-height: 46px;
+    }
+}
+
 @media screen and (max-width: 375px) {
     .content__title {
         width: 343px;

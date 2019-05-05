@@ -15,6 +15,12 @@
     display: flex;
 }
 
+@media screen and (max-width: 768px) {
+    .video {
+        width: 720px;
+    }
+}
+
 @media screen and (max-width: 375px) {
     .video {
         width: 343px;

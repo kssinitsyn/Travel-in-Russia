@@ -10,8 +10,21 @@
 
     display: flex;
     flex-wrap: wrap;
-    /*justify-content: space-around;*/
     align-items: flex-end;
+}
+
+@media screen and (max-width: 768px) {
+    .place {
+        width: 720px;
+
+        margin: 72px auto 0;
+
+        align-items: flex-start;
+    }
+
+    .place:last-child>.place__paragraph {
+        margin-bottom: 0;
+    }
 }
 
 @media screen and (max-width: 375px) {

@@ -6,6 +6,12 @@
     color: #fff;
 }
 
+@media screen and (max-width: 768px) {
+    .header__lang_type {
+        margin-left: 18px;
+    }
+}
+
 @media screen and (max-width: 375px) {
     .header__lang_type {
         margin-left: 18px;

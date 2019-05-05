@@ -7,6 +7,15 @@
     display: flex;
 }
 
+@media screen and (max-width: 768px) {
+    .comments__container {
+        width: 343px;
+        margin: 0 auto;
+
+        flex-direction: column;
+    }
+}
+
 @media screen and (max-width: 375px) {
     .comments__container {
         width: 343px;

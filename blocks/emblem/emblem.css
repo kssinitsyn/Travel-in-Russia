@@ -20,6 +20,21 @@
     justify-content: space-between;
 }
 
+@media screen and (max-width: 768px) {
+    .emblem {
+        width: 720px;
+
+        margin: 64px auto 0;
+    }
+
+    .emblem__container {
+        flex-wrap: wrap;
+        justify-content: flex-start;
+
+        margin: 0 auto;
+    }
+}
+
 @media screen and (max-width: 375px) {
     .emblem {
         width: 343px;
