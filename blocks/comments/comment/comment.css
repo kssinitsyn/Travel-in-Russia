@@ -6,6 +6,15 @@
     margin-right: 19px;
 }
 
+@media screen and (max-width: 768px) {
+    .comment {
+        width: 382px;
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+    }
+}
+
 @media screen and (max-width: 375px) {
     .comment {
         width: 343px;

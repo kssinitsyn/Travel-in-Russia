@@ -8,6 +8,19 @@
     border-radius: 50%;
 }
 
+@media screen and (max-width: 768px) {
+    .comment__image {
+        margin: 10px auto 0;
+
+        width: 97px;
+        height: 97px;
+
+        text-align: center;
+
+        order: 1;
+    }
+}
+
 @media screen and (max-width: 375px) {
     .comment__image {
         margin: 10px auto 0;

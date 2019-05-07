@@ -16,13 +16,13 @@
 @media screen and (max-width: 768px){
     .barentsburg__container {
         width: 720px;
-        flex-direction: column-reverse;
+
         margin: 0 auto;
     }
 
     .barentsburg {
-        width: 768px;
-        margin: 88px auto 0;
+        width: 720px;
+        margin: 27px auto 0;
     }
 }
 
