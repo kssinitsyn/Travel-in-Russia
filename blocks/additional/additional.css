@@ -5,15 +5,31 @@
 
 .additional__container {
     width: 1184px;
+
     margin: 0 auto;
 
     display: flex;
 }
 
+@media screen and (max-width: 1024px) {
+    .additional__container {
+        width: 991px;
+
+        margin: 0 auto;
+        padding-bottom: 43px;
+
+        flex-wrap: nowrap;
+        justify-content: space-between;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .additional__container {
         width: 584px;
+
         margin: 0 auto;
+        padding: 0;
+
         flex-wrap: wrap;
         justify-content: space-between;
     }
@@ -22,6 +38,9 @@
 @media screen and (max-width: 375px) {
     .additional__container {
         width: 343px;
+
+        padding: 0;
+
         flex-direction: column;
     }
 }
@@ -29,6 +48,9 @@
 @media screen and (max-width: 320px) {
     .additional__container {
         width: 288px;
+
+        padding: 0;
+
         flex-direction: column;
     }
 }

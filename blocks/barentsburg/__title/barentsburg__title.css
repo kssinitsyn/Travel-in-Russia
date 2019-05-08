@@ -7,9 +7,21 @@
     color: #FFFFFF;
 }
 
+@media screen and (max-width: 1024px){
+    .barentsburg__title {
+        width: 928px;
+
+        margin: 0 auto;
+
+        font-size: 42px;
+        line-height: 60px;
+    }
+}
+
 @media screen and (max-width: 768px){
     .barentsburg__title {
         width: 720px;
+
         margin: 0 auto;
 
         font-size: 42px;
@@ -20,6 +32,7 @@
 @media screen and (max-width: 375px){
     .barentsburg__title {
         width: 343px;
+
         margin: 0 auto;
 
         font-size: 24px;
@@ -30,6 +43,7 @@
 @media screen and (max-width: 320px){
     .barentsburg__title {
         width: 288px;
+
         margin: 0 auto;
 
         font-size: 24px;

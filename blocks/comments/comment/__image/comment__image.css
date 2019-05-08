@@ -8,12 +8,23 @@
     border-radius: 50%;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
     .comment__image {
-        margin: 10px auto 0;
-
         width: 97px;
         height: 97px;
+
+        margin-bottom: 40px;
+
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .comment__image {
+        width: 97px;
+        height: 97px;
+
+        margin: 10px auto 0;
 
         text-align: center;
 
@@ -23,10 +34,10 @@
 
 @media screen and (max-width: 375px) {
     .comment__image {
-        margin: 10px auto 0;
-
         width: 97px;
         height: 97px;
+
+        margin: 48px auto 0;
 
         text-align: center;
 
@@ -36,10 +47,10 @@
 
 @media screen and (max-width: 320px) {
     .comment__image {
-        margin: 2px auto 0;
-
         width: 96px;
         height: 96px;
+
+        margin: 48px auto 0;
 
         text-align: center;
 

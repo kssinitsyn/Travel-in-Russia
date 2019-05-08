@@ -5,6 +5,15 @@
     margin: 48px 0 0 0;
 }
 
+@media screen and (max-width: 1024px) {
+    .barentsburg__map {
+        width: 928px;
+        height: 362px;
+
+        margin: 0;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .barentsburg__map {
         width: 720px;

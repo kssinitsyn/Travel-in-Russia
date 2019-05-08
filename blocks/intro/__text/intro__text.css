@@ -10,6 +10,18 @@
     text-align: left;
     color: #FFFFFF;
 }
+
+@media screen and (max-width: 1024px) {
+    .intro__text {
+        width: 383px;
+
+        margin: 0;
+
+        font-size: 13px;
+        line-height: 20px;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .intro__text {
         width: 720px;

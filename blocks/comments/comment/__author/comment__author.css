@@ -8,11 +8,21 @@
     color: #FFFFFF;
 }
 
+@media screen and (max-width: 1024px) {
+    .comment__author {
+        width: 296px;
+
+        font-size: 14px;
+        font-weight: bold;
+        line-height: 24px;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .comment__author {
         width: 382px;
-        margin-top: 16px;
-        margin-bottom: 24px;
+
+        margin: 16px 0 24px 0;
 
         font-size: 14px;
         font-weight: bold;
@@ -27,8 +37,8 @@
 @media screen and (max-width: 375px) {
     .comment__author {
         width: 343px;
-        margin-top: 17px;
-        margin-bottom: 24px;
+
+        margin: 17px 0 24px 0;
 
         font-size: 14px;
         font-weight: bold;
@@ -43,8 +53,8 @@
 @media screen and (max-width: 320px) {
     .comment__author {
         width: 288px;
-        margin-top: 17px;
-        margin-bottom: 24px;
+
+        margin: 17px 0 24px 0;
 
         font-size: 14px;
         font-weight: bold;

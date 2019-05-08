@@ -1,4 +1,32 @@
 .emblem__image {
-    width: 186px;
-    height: 226px;
+     width: 186px;
+     height: 226px;
+ }
+
+@media screen and (max-width: 1024px) {
+    .emblem__image {
+        width: 164px;
+        height: 200px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .emblem__image {
+        width: 186px;
+        height: 226px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .emblem__image {
+        width: 186px;
+        height: 226px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .emblem__image {
+        width: 186px;
+        height: 226px;
+    }
 }

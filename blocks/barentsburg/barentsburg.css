@@ -6,11 +6,26 @@
 
 .barentsburg {
     width: 1184px;
+
     margin: 85px auto 0;
 }
 
 .barentsburg__container {
     display: flex;
+}
+
+@media screen and (max-width: 1024px){
+    .barentsburg__container {
+        width: 928px;
+
+        margin: 0 auto;
+    }
+
+    .barentsburg {
+        width: 928px;
+
+        margin: 102px auto 0;
+    }
 }
 
 @media screen and (max-width: 768px){
@@ -22,6 +37,7 @@
 
     .barentsburg {
         width: 720px;
+
         margin: 27px auto 0;
     }
 }
@@ -29,12 +45,15 @@
 @media screen and (max-width: 375px){
     .barentsburg__container {
         width: 375px;
-        flex-direction: column-reverse;
+
         margin: 0 auto;
+
+        flex-direction: column-reverse;
     }
 
     .barentsburg {
         width: 375px;
+
         margin: 88px auto 0;
     }
 }
@@ -42,12 +61,15 @@
 @media screen and (max-width: 320px){
     .barentsburg__container {
         width: 320px;
-        flex-direction: column-reverse;
+
         margin: 0 auto;
+
+        flex-direction: column-reverse;
     }
 
     .barentsburg {
         width: 320px;
+
         margin: 64px auto 0;
     }
 }

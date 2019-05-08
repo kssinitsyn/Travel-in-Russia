@@ -9,6 +9,15 @@
     color: #fff;
 }
 
+@media screen and (max-width: 1024px) {
+    .lead__subtitle {
+        margin: 46px auto 0;
+
+        font-size: 30px;
+        line-height: 36px;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .lead__subtitle {
         width: 720px;

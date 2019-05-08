@@ -9,9 +9,21 @@
     color: #FFFFFF;
 }
 
+@media screen and (max-width: 1024px) {
+    .comment__quote {
+        width: 296px;
+
+        margin-bottom: 16px;
+
+        font-size: 14px;
+        line-height: 24px;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .comment__quote {
         width: 382px;
+
         margin: 0 auto 48px;
 
         font-size: 16px;
@@ -24,6 +36,7 @@
 @media screen and (max-width: 375px) {
     .comment__quote {
         width: 343px;
+
         margin: 0 auto;
 
         font-size: 16px;
@@ -36,6 +49,7 @@
 @media screen and (max-width: 320px) {
     .comment__quote {
         width: 288px;
+
         margin: 0 auto;
 
         font-size: 16px;

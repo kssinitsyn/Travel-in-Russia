@@ -12,3 +12,17 @@
     line-height: 20px;
     color: #FFFFFF;
 }
+
+@media screen and (max-width: 1024px) {
+    .additional__text {
+        width: 210px;
+
+        margin: 0;
+
+        bottom: 16px;
+        left: 16px;
+
+        font-size: 14px;
+        line-height: 20px;
+    }
+}

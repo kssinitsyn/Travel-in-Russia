@@ -13,6 +13,20 @@
     align-items: flex-end;
 }
 
+@media screen and (max-width: 1024px) {
+    .place {
+        width: 928px;
+
+        margin: 72px auto 0;
+
+        align-items: flex-end;
+    }
+
+    .place:last-child>.place__paragraph {
+        margin-bottom: 0;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .place {
         width: 720px;

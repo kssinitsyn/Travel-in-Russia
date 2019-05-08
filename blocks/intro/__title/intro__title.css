@@ -9,6 +9,15 @@
     color: #fff;
 }
 
+@media screen and (max-width: 1024px) {
+    .intro__title {
+        width: 928px;
+
+        font-size: 54px;
+        line-height: 59px;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .intro__title {
         width: 720px;

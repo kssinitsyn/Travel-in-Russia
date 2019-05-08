@@ -30,11 +30,23 @@
   }
 
 .page {
+    /*Общий шрифт*/
     font-family: 'Inter', sans-serif;
 
+    /*Сглаживание шрифтов*/
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    /*Подгонка шрифта по размеру*/
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+
+    /*Общий фон страницы*/
     background-color: #2A2C2F;
 }
 
+/*Для скрытого заголовка*/
 .visually-hidden:not(:focus):not(:active),
 input[type="checkbox"].visually-hidden,
 input[type="radio"].visually-hidden {

@@ -20,6 +20,7 @@
 @media screen and (max-width: 320px){
     .barentsburg__text {
         width: 288px;
+
         margin: 32px auto 0;
     }
 }

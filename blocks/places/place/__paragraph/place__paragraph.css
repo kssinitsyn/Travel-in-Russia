@@ -10,12 +10,24 @@
     line-height: 30px;
     color: #FFFFFF;
 }
+
+@media screen and (max-width: 1024px) {
+    .place__paragraph {
+        width: 456px;
+
+        padding: 0;
+        margin: 0 0 0 32px;
+
+        font-size: 18px;
+        line-height: 30px;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .place__paragraph {
         width: 352px;
 
         padding: 0;
-
         margin: 0 0 0 28px;
 
         font-size: 16px;
@@ -28,7 +40,6 @@
         width: 343px;
 
         padding: 0 16px;
-
         margin: 24px 0 48px 0;
 
         font-size: 16px;
@@ -41,7 +52,6 @@
         width: 288px;
 
         padding: 0 16px;
-
         margin: 24px 0 48px 0;
 
         font-size: 18px;

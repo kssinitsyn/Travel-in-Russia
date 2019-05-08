@@ -9,6 +9,18 @@
     color: #FFFFFF;
 }
 
+@media screen and (max-width: 1024px) {
+    .emblem__title {
+        width: 436px;
+
+        margin-bottom: 82px;
+
+        font-size: 42px;
+        line-height: 45px;
+        text-align: left;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .emblem__title {
         width: 720px;

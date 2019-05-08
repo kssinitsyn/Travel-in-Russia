@@ -3,6 +3,13 @@
     height: 323px;
 }
 
+@media screen and (max-width: 1024px) {
+    .video__item-bg {
+        width: 456px;
+        height: 288px;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .video__item-bg {
         width: 352px;
