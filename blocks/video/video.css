@@ -25,6 +25,10 @@
     .video {
         width: 720px;
     }
+
+    .video__container {
+        margin-top: 56px;
+    }
 }
 
 @media screen and (max-width: 375px) {
@@ -34,6 +38,8 @@
 
     .video__container {
         flex-direction: column;
+
+        margin-top: 32px;
     }
 }
 
@@ -44,5 +50,7 @@
 
     .video__container {
         flex-direction: column;
+
+        margin-top: 24px;
     }
 }

@@ -27,7 +27,7 @@
     .additional__container {
         width: 584px;
 
-        margin: 0 auto;
+        margin: 56px auto 0;
         padding: 0;
 
         flex-wrap: wrap;
@@ -39,6 +39,7 @@
     .additional__container {
         width: 343px;
 
+        margin: 48px auto 0;
         padding: 0;
 
         flex-direction: column;
@@ -49,6 +50,7 @@
     .additional__container {
         width: 288px;
 
+        margin: 48px auto 0;
         padding: 0;
 
         flex-direction: column;

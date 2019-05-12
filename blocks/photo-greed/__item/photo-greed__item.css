@@ -34,8 +34,7 @@
 
 @media screen and (max-width: 375px) {
     .photo-greed__item {
-        width: 343px;
-        height: 232px;
+        width: 100%;
 
         margin-bottom: 15px;
     }
@@ -47,8 +46,7 @@
 
 @media screen and (max-width: 320px) {
     .photo-greed__item {
-        width: 288px;
-        height: 192px;
+        width: 100%;
 
         margin-bottom: 8px;
     }

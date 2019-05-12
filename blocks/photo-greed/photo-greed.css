@@ -28,7 +28,7 @@
 
 @media screen and (max-width: 375px) {
     .photo-greed {
-        width: 343px;
+        width: 100%;
 
         margin: 64px auto 0;
 
@@ -38,7 +38,7 @@
 
 @media screen and (max-width: 320px) {
     .photo-greed {
-        width: 288px;
+        width: 100%;
 
         margin: 64px auto 0;
 

@@ -24,7 +24,7 @@
     .additional__item {
         width: 284px;
         height: 330px;
-        
+
         margin: 0 0 16px 0;
     }
 
@@ -46,7 +46,7 @@
     }
 
     .additional__item:first-child {
-        margin: 24px auto 0;
+        margin: 0 auto;
     }
 
     .additional__item:nth-child(3) {
@@ -58,7 +58,7 @@
     }
 }
 
-@media screen and (max-width: 320px) and (max-width: 375px) {
+@media screen and (max-width: 320px) {
     .additional__item {
         width: 284px;
         height: 330px;
@@ -67,7 +67,7 @@
     }
 
     .additional__item:first-child {
-        margin: 24px auto 0;
+        margin: 0 auto;
     }
 
     .additional__item:nth-child(3) {
